@@ -1,0 +1,28 @@
+{
+    "name": "parcel-plugin-svelte-markc",
+    "version": "4.0.6",
+    "description": "ParcelJS Plugin to support svelte-markc",
+    "main": "lib/main.js",
+    "author": "novacbn",
+    "license": "MIT",
+    "keywords": [
+        "parcel",
+        "svelte",
+        "svelte-mark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/novacbn/parcel-plugin-svelte-markc.git"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "peerDependencies": {
+        "parcel-bundler": "^1.11.0",
+        "svelte": "^3.0.0"
+    },
+    "dependencies": {
+        "svelte-dev-helper": "^1.1.7",
+        "svelte-markc": "git+https://github.com/novacbn/svelte-markc.git"
+    }
+}
