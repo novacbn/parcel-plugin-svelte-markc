@@ -4,7 +4,7 @@
 
 ## Description
 
-ParcelJS Plugin to support `svelte-mark` compilation of Svelte Markdown Component _(`.md` / `.mds`)_ files for importing.
+ParcelJS Plugin to support `svelte-markc` compilation of Svelte Markdown Component _(`.md` / `.mds`)_ files for importing.
 
 ## Developer
 
