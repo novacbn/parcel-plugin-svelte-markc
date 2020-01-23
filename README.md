@@ -13,7 +13,7 @@ ParcelJS Plugin to support `svelte-markc` compilation of Svelte Markdown Compone
 Open your terminal and install via `npm`:
 
 ```sh
-npm install git+https://github.com/novacbn/parcel-plugin-svelte-markc#0.0.2 -D
+npm install git+https://github.com/novacbn/parcel-plugin-svelte-markc#0.0.3 -D
 ```
 
 ### Usage

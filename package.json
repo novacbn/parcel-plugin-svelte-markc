@@ -1,6 +1,6 @@
 {
     "name": "parcel-plugin-svelte-markc",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "ParcelJS Plugin to support svelte-markc",
     "main": "lib/main.js",
     "author": "novacbn",
