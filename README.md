@@ -1,5 +1,7 @@
 # parcel-plugin-svelte
 
+> **DEPRECATED**: As I had lost interest in this project, I recommend to try out [`pngwn/MDsveX`](https://github.com/pngwn/MDsveX) which is a newer project with a similar workflow and better featureset. I've moved my projects to it, and it's really nice.
+
 > **NOTE**: This package is a fork of [`DeMoorJasper/parcel-plugin-svelte`](https://github.com/DeMoorJasper/parcel-plugin-svelte) to utilize [`novacbn/svelte-markc`](https://github.com/novacbn/svelte-markc)!
 
 ## Description
